@@ -19,6 +19,18 @@
   "url": "https://www.aumyr.world",
   "packs": [
     {
+      "name": "Aumyr",
+      "label": "aumyr-setting",
+      "path": "packs/aumyr-setting",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
       "label": "Mappe",
       "name": "aumyr-maps",
       "type": "Scene",
