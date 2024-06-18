@@ -1,0 +1,58 @@
+{
+  "id": "aumyr-it",
+  "title": "Aumyr (IT)",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "description": "Aumyr - Ambientazione Fantasy per Giochi di Ruolo (IT)",
+  "authors": [
+    {
+      "name": "Marco Bertolini",
+      "discord": "devberto",
+      "email": "info@marcobertolini.net",
+      "url": "https://www.aumyr.world",
+      "flags": {}
+    }
+  ],
+  "url": "https://www.aumyr.world",
+  "packs": [
+    {
+      "label": "Mappe",
+      "name": "aumyr-maps",
+      "type": "Scene",
+      "system": "dnd5e",
+      "path": "packs/aumyr-maps",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "PNG",
+      "name": "aumyr-png",
+      "type": "Actor",
+      "system": "dnd5e",
+      "path": "packs/aumyr-png",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Oggetti",
+      "name": "aumyr-items",
+      "type": "Item",
+      "system": "dnd5e",
+      "path": "packs/aumyr-items",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ]
+}
