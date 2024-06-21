@@ -1,72 +1,66 @@
 {
   "id": "aumyr-it",
   "title": "Aumyr (IT)",
-  "version": "0.0.1c",
+  "version": "1.0.0",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
   },
-  "description": "Aumyr - Ambientazione Fantasy per Giochi di Ruolo (IT)",
   "authors": [
     {
       "name": "Marco Bertolini",
-      "discord": "devberto",
       "email": "info@marcobertolini.net",
       "url": "https://www.aumyr.world",
+      "discord": "devberto",
       "flags": {}
     }
   ],
-  "url": "https://www.aumyr.world",
   "packs": [
     {
-      "name": "Aumyr",
-      "label": "aumyr-setting",
-      "path": "packs/aumyr-setting",
+      "name": "aumyr-world",
+      "label": "Aumyr",
+      "path": "packs/aumyr-world",
       "type": "JournalEntry",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "system": "dnd5e",
       "flags": {}
     },
     {
-      "label": "Mappe",
-      "name": "aumyr-maps",
-      "type": "Scene",
-      "system": "dnd5e",
-      "path": "packs/aumyr-maps",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "flags": {}
-    },
-    {
-      "label": "PNG",
-      "name": "aumyr-png",
-      "type": "Actor",
-      "system": "dnd5e",
-      "path": "packs/aumyr-png",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "flags": {}
-    },
-    {
-      "label": "Oggetti",
       "name": "aumyr-items",
-      "type": "Item",
-      "system": "dnd5e",
+      "label": "Oggetti",
       "path": "packs/aumyr-items",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "aumyr-npcs",
+      "label": "Personaggi",
+      "path": "packs/aumyr-npcs",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "aumyr-maps",
+      "label": "Mappe",
+      "path": "packs/aumyr-maps",
+      "type": "Scene",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
       "flags": {}
     }
-  ],
-  "manifest": "https://raw.githubusercontent.com/bertolinimarco/foundryvtt-aumyr-setting/main/module.json",
-  "download": "https://github.com/bertolinimarco/foundryvtt-aumyr-setting/archive/master.zip"
+  ]
 }

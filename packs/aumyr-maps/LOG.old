@@ -1,23 +1,5 @@
-2024/06/18-14:34:35.665215 312f7c000 Recovering log #36
-2024/06/18-14:34:35.665260 312f7c000 Level-0 table #38: started
-2024/06/18-14:34:35.665560 312f7c000 Level-0 table #38: 1782 bytes OK
-2024/06/18-14:34:35.666050 312f7c000 Delete type=3 #35
-2024/06/18-14:34:35.666095 312f7c000 Delete type=0 #36
-2024/06/18-14:43:10.490623 318fff000 Level-0 table #41: started
-2024/06/18-14:43:10.490704 318fff000 Level-0 table #41: 0 bytes OK
-2024/06/18-14:43:10.490823 318fff000 Delete type=0 #39
-2024/06/18-14:43:10.490892 318fff000 Manual compaction at level-0 from '!folders!QfqCzQhbINR20Ogp' @ 72057594037927935 : 1 .. '!scenes!CHNi7NJcWFUi48cJ' @ 0 : 0; will stop at '!scenes!CHNi7NJcWFUi48cJ' @ 32 : 1
-2024/06/18-14:43:10.490896 318fff000 Compacting 1@0 + 0@1 files
-2024/06/18-14:43:10.491072 318fff000 Generated table #42@0: 3 keys, 1782 bytes
-2024/06/18-14:43:10.491077 318fff000 Compacted 1@0 + 0@1 files => 1782 bytes
-2024/06/18-14:43:10.491124 318fff000 compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/06/18-14:43:10.491155 318fff000 Delete type=2 #38
-2024/06/18-14:43:10.491698 318fff000 Manual compaction at level-0 from '!scenes!CHNi7NJcWFUi48cJ' @ 32 : 1 .. '!scenes!CHNi7NJcWFUi48cJ' @ 0 : 0; will stop at (end)
-2024/06/18-14:43:10.492635 318fff000 Manual compaction at level-1 from '!folders!QfqCzQhbINR20Ogp' @ 72057594037927935 : 1 .. '!scenes!CHNi7NJcWFUi48cJ' @ 0 : 0; will stop at '!scenes!CHNi7NJcWFUi48cJ' @ 32 : 1
-2024/06/18-14:43:10.492640 318fff000 Compacting 1@1 + 1@2 files
-2024/06/18-14:43:10.492837 318fff000 Generated table #43@1: 5 keys, 3006 bytes
-2024/06/18-14:43:10.492845 318fff000 Compacted 1@1 + 1@2 files => 3006 bytes
-2024/06/18-14:43:10.492887 318fff000 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/06/18-14:43:10.492916 318fff000 Delete type=2 #26
-2024/06/18-14:43:10.493078 318fff000 Delete type=2 #42
-2024/06/18-14:43:10.493749 318fff000 Manual compaction at level-1 from '!scenes!CHNi7NJcWFUi48cJ' @ 32 : 1 .. '!scenes!CHNi7NJcWFUi48cJ' @ 0 : 0; will stop at (end)
+2024/06/19-14:34:13.503262 30de38000 Delete type=3 #1
+2024/06/19-15:23:17.498465 3085b3000 Level-0 table #5: started
+2024/06/19-15:23:17.498973 3085b3000 Level-0 table #5: 7074 bytes OK
+2024/06/19-15:23:17.499239 3085b3000 Delete type=0 #3
+2024/06/19-15:23:17.501907 3085b3000 Manual compaction at level-0 from '!folders!1C4V0H4j0hwd2Rd2' @ 72057594037927935 : 1 .. '!scenes!zohTajJ7FoFyF7MB' @ 0 : 0; will stop at (end)
