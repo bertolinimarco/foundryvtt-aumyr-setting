@@ -1,7 +1,7 @@
 {
   "id": "aumyr-it",
   "title": "Aumyr (IT)",
-  "version": "1.0.0",
+  "version": "0.0.2a",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -62,5 +62,7 @@
       },
       "flags": {}
     }
-  ]
+  ],
+  "manifest": "https://raw.githubusercontent.com/bertolinimarco/foundryvtt-aumyr-setting/main/module.json",
+  "download": "https://github.com/bertolinimarco/foundryvtt-aumyr-setting/archive/master.zip"
 }
