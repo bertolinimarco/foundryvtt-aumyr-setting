@@ -2,8 +2,6 @@
 
 Modulo ufficiale per l'Ambientazione Fantasy per giochi di ruolo, in lingua italiana.
 
-Per installare il modulo, copia il seguente URL e incollalo nella casella di installazione dei moduli di FoundryVTT:
-
 ## Installazione
 
 Per installare il modulo, copia il seguente URL e incollalo nella casella di installazione dei moduli di FoundryVTT:
