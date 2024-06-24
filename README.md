@@ -14,15 +14,13 @@ https://raw.githubusercontent.com/bertolinimarco/foundryvtt-aumyr-setting/main/m
 
 Se vuoi contribuire, puoi farlo in due modi:
 
-- Aprire una issue con la tua proposta di traduzione
+- Aprire una issue con la tua proposta
 - Forkare il repository, fare le modifiche e aprire una pull request
 - Contattarmi su Discord (devberto)
 
 ## Crediti
 
-- Traduzione a cura di:
-
-  - bertolinimarco (Discord: devberto)
+bertolinimarco (Discord: devberto)
 
 ## Licenza
 
