@@ -1,8 +1,15 @@
-2024/06/24-08:41:37.896074 30c49f000 Recovering log #8
-2024/06/24-08:41:37.896517 30c49f000 Delete type=3 #6
-2024/06/24-08:41:37.896553 30c49f000 Delete type=0 #8
-2024/06/24-09:01:57.705132 306282000 Level-0 table #14: started
-2024/06/24-09:01:57.705284 306282000 Level-0 table #14: 0 bytes OK
-2024/06/24-09:01:57.705451 306282000 Delete type=0 #12
-2024/06/24-09:01:57.706305 306282000 Manual compaction at level-0 from '!folders!9q5yXOTgZjsD49VF' @ 72057594037927935 : 1 .. '!scenes!eOIBNz9GujGkFO74' @ 0 : 0; will stop at (end)
-2024/06/24-09:01:57.706338 306282000 Manual compaction at level-1 from '!folders!9q5yXOTgZjsD49VF' @ 72057594037927935 : 1 .. '!scenes!eOIBNz9GujGkFO74' @ 0 : 0; will stop at (end)
+2024/06/24-09:04:51.419188 30cca2000 Recovering log #13
+2024/06/24-09:04:51.419585 30cca2000 Delete type=0 #13
+2024/06/24-09:04:51.419629 30cca2000 Delete type=3 #11
+2024/06/24-09:05:39.485281 306282000 Level-0 table #18: started
+2024/06/24-09:05:39.485558 306282000 Level-0 table #18: 5236 bytes OK
+2024/06/24-09:05:39.485659 306282000 Delete type=0 #16
+2024/06/24-09:05:39.486094 306282000 Manual compaction at level-0 from '!folders!9q5yXOTgZjsD49VF' @ 72057594037927935 : 1 .. '!scenes.notes!QWhckPrBqFdKi1Q0.pIMB4DBWSmmHihYL' @ 0 : 0; will stop at (end)
+2024/06/24-09:05:39.486266 306282000 Manual compaction at level-1 from '!folders!9q5yXOTgZjsD49VF' @ 72057594037927935 : 1 .. '!scenes.notes!QWhckPrBqFdKi1Q0.pIMB4DBWSmmHihYL' @ 0 : 0; will stop at '!scenes.notes!QWhckPrBqFdKi1Q0.pIMB4DBWSmmHihYL' @ 64 : 1
+2024/06/24-09:05:39.486271 306282000 Compacting 1@1 + 1@2 files
+2024/06/24-09:05:39.486530 306282000 Generated table #19@1: 19 keys, 4972 bytes
+2024/06/24-09:05:39.486539 306282000 Compacted 1@1 + 1@2 files => 4972 bytes
+2024/06/24-09:05:39.486583 306282000 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/24-09:05:39.486610 306282000 Delete type=2 #10
+2024/06/24-09:05:39.486650 306282000 Delete type=2 #18
+2024/06/24-09:05:39.486874 306282000 Manual compaction at level-1 from '!scenes.notes!QWhckPrBqFdKi1Q0.pIMB4DBWSmmHihYL' @ 64 : 1 .. '!scenes.notes!QWhckPrBqFdKi1Q0.pIMB4DBWSmmHihYL' @ 0 : 0; will stop at (end)
