@@ -2,7 +2,7 @@
   "id": "foundryvtt-aumyr-it",
   "title": "Aumyr (IT)",
   "description": "Aumyr è un'ambientazione fantasy per giochi di ruolo, pronta per le tue avventure. Scopri di più su https://www.aumyr.world",
-  "version": "0.0.2e",
+  "version": "0.0.2f",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -67,8 +67,8 @@
   "media": [
     {
       "type": "setup",
-      "url": "assets/media/cover.webp",
-      "thumbnail": "assets/media/cover.webp"
+      "url": "/module/cover.webp",
+      "thumbnail": "/module/cover.webp"
     }
   ],
   "url": "https://github.com/bertolinimarco/foundryvtt-aumyr-setting",
