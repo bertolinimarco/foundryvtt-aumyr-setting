@@ -1,7 +1,8 @@
 {
   "id": "foundryvtt-aumyr-it",
-  "title": "Aumyr (IT) - Ambientazione Fantasy per Giochi di Ruolo",
-  "version": "0.0.2c",
+  "title": "Aumyr (IT)",
+  "description": "Aumyr è un'ambientazione fantasy per giochi di ruolo, pronta per le tue avventure. Scopri di più su https://www.aumyr.world",
+  "version": "0.0.2d",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
