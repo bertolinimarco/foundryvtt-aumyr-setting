@@ -63,6 +63,13 @@
       "flags": {}
     }
   ],
+  "media": [
+    {
+      "type": "setup",
+      "url": "assets/media/cover.webp",
+      "thumbnail": "assets/media/cover.webp"
+    }
+  ],
   "url": "https://github.com/bertolinimarco/foundryvtt-aumyr-setting",
   "manifest": "https://raw.githubusercontent.com/bertolinimarco/foundryvtt-aumyr-setting/main/module.json",
   "download": "https://github.com/bertolinimarco/foundryvtt-aumyr-setting/archive/master.zip"
