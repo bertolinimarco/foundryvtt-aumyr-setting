@@ -1,5 +1,15 @@
-2024/06/19-14:34:13.503262 30de38000 Delete type=3 #1
-2024/06/19-15:23:17.498465 3085b3000 Level-0 table #5: started
-2024/06/19-15:23:17.498973 3085b3000 Level-0 table #5: 7074 bytes OK
-2024/06/19-15:23:17.499239 3085b3000 Delete type=0 #3
-2024/06/19-15:23:17.501907 3085b3000 Manual compaction at level-0 from '!folders!1C4V0H4j0hwd2Rd2' @ 72057594037927935 : 1 .. '!scenes!zohTajJ7FoFyF7MB' @ 0 : 0; will stop at (end)
+2024/06/21-08:27:39.626504 3111e1000 Recovering log #4
+2024/06/21-08:27:39.627055 3111e1000 Delete type=0 #4
+2024/06/21-08:27:39.627098 3111e1000 Delete type=3 #2
+2024/06/21-10:01:06.279990 30a046000 Level-0 table #9: started
+2024/06/21-10:01:06.280509 30a046000 Level-0 table #9: 6444 bytes OK
+2024/06/21-10:01:06.280738 30a046000 Delete type=0 #7
+2024/06/21-10:01:06.281544 30a046000 Manual compaction at level-0 from '!folders!9q5yXOTgZjsD49VF' @ 72057594037927935 : 1 .. '!scenes!eOIBNz9GujGkFO74' @ 0 : 0; will stop at (end)
+2024/06/21-10:01:06.283331 30a046000 Manual compaction at level-1 from '!folders!9q5yXOTgZjsD49VF' @ 72057594037927935 : 1 .. '!scenes!eOIBNz9GujGkFO74' @ 0 : 0; will stop at '!scenes!zohTajJ7FoFyF7MB' @ 28 : 0
+2024/06/21-10:01:06.283339 30a046000 Compacting 1@1 + 1@2 files
+2024/06/21-10:01:06.283568 30a046000 Generated table #10@1: 8 keys, 3234 bytes
+2024/06/21-10:01:06.283575 30a046000 Compacted 1@1 + 1@2 files => 3234 bytes
+2024/06/21-10:01:06.283637 30a046000 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/21-10:01:06.283678 30a046000 Delete type=2 #5
+2024/06/21-10:01:06.283863 30a046000 Delete type=2 #9
+2024/06/21-10:01:06.284731 30a046000 Manual compaction at level-1 from '!scenes!zohTajJ7FoFyF7MB' @ 28 : 0 .. '!scenes!eOIBNz9GujGkFO74' @ 0 : 0; will stop at (end)
