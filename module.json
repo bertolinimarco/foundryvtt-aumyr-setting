@@ -67,8 +67,8 @@
   "media": [
     {
       "type": "setup",
-      "url": "module/cover.webp",
-      "thumbnail": "module/cover.webp"
+      "url": "cover.webp",
+      "thumbnail": "cover.webp"
     }
   ],
   "url": "https://github.com/bertolinimarco/foundryvtt-aumyr-setting",
