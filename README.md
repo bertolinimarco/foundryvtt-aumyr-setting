@@ -1,6 +1,6 @@
 # Aumyr FoundryVTT Module (IT)
 
-Modulo ufficiale per l'Ambientazione Fantasy per giochi di ruolo, in lingua italiana. 
+Modulo ufficiale per l'Ambientazione Fantasy per giochi di ruolo, in lingua italiana.
 
 Scopri di più su https://www.aumyr.world
 
