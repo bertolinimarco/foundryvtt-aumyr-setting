@@ -16,3 +16,4 @@
 ## Mappe
 
 Città
+FoundryVTT Regions per i confini regionali?
