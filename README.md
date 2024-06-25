@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/bertolinimarco/foundryvtt-aumyr-setting/main/cover.webp">
+
 # Aumyr FoundryVTT Module (IT)
 
 Modulo ufficiale per l'Ambientazione Fantasy per giochi di ruolo, in lingua italiana.
