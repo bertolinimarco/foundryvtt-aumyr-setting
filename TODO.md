@@ -1,6 +1,5 @@
 # Contenuti
 
-- Laentas
 - Merosh
 - Nordavind
 - Thanaros
