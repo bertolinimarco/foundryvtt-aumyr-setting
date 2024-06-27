@@ -1,7 +1,5 @@
 # Contenuti
 
-- Laangor
-- Laendil
 - Laentas
 - Merosh
 - Nordavind
@@ -10,6 +8,7 @@
 - Zeitan
 
 - Manca la città di Sailwind (Laangor) anche su aumyr.world! Controllare se c'è sul pdf :D
+- Gwaldur: Palude di Marshir?
 
 ## Mappe
 
