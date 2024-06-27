@@ -9,10 +9,12 @@
 - Valdarn
 - Zeitan
 
+- Manca la città di Sailwind (Laangor) anche su aumyr.world! Controllare se c'è sul pdf :D
+
 ## Mappe
 
-Città
-FoundryVTT Regions per i confini regionali?
+- Città
+- FoundryVTT Regions p- er i confini regionali?
 
 ## Personaggi
 
@@ -37,8 +39,8 @@ foundryvtt-aumyr-it
 
 Aumyr (IT)
 
-https://github.com/bertolinimarco/foundryvtt-aumyr-setting
+<https://github.com/bertolinimarco/foundryvtt-aumyr-setting>
 
 devberto
 
-Aumyr è un'ambientazione fantasy per giochi di ruolo, pronta per le tue avventure. Scopri di più su https://www.aumyr.world
+Aumyr è un'ambientazione fantasy per giochi di ruolo, pronta per le tue avventure. Scopri di più su <https://www.aumyr.world>
