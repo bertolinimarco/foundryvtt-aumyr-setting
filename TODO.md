@@ -6,7 +6,7 @@
 ## Mappe
 
 - Città
-- FoundryVTT Regions p- er i confini regionali?
+- FoundryVTT Regions per i confini regionali?
 
 ## Personaggi
 
@@ -19,20 +19,3 @@ Capire come gestire i backgrounds
 ## Specie
 
 Capire come gestire avanzamento e caratteristiche dei Nativi
-
-========
-Module form submission data
-
-<https://foundryvtt.com/packages/submit>
-
-Add-On Module?
-
-foundryvtt-aumyr-it
-
-Aumyr (IT)
-
-<https://github.com/bertolinimarco/foundryvtt-aumyr-setting>
-
-devberto
-
-Aumyr è un'ambientazione fantasy per giochi di ruolo, pronta per le tue avventure. Scopri di più su <https://www.aumyr.world>
