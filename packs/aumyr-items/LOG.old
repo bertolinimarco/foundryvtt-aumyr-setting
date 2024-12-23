@@ -1,8 +1,15 @@
-2024/06/27-13:09:46.767327 3153b9000 Recovering log #46
-2024/06/27-13:09:46.767706 3153b9000 Delete type=0 #46
-2024/06/27-13:09:46.767743 3153b9000 Delete type=3 #44
-2024/06/27-14:41:49.373805 30e32f000 Level-0 table #51: started
-2024/06/27-14:41:49.373991 30e32f000 Level-0 table #51: 0 bytes OK
-2024/06/27-14:41:49.374148 30e32f000 Delete type=0 #49
-2024/06/27-14:41:49.374949 30e32f000 Manual compaction at level-0 from '!folders!0QMzw1FmP6jzykb6' @ 72057594037927935 : 1 .. '!items!zGwiK0tndVPfIqnP' @ 0 : 0; will stop at (end)
-2024/06/27-14:41:49.374995 30e32f000 Manual compaction at level-1 from '!folders!0QMzw1FmP6jzykb6' @ 72057594037927935 : 1 .. '!items!zGwiK0tndVPfIqnP' @ 0 : 0; will stop at (end)
+2024/06/28-07:51:50.657980 30b5bc000 Recovering log #50
+2024/06/28-07:51:50.658643 30b5bc000 Delete type=3 #48
+2024/06/28-07:51:50.658692 30b5bc000 Delete type=0 #50
+2024/06/28-08:39:27.939074 305c26000 Level-0 table #55: started
+2024/06/28-08:39:27.940143 305c26000 Level-0 table #55: 32970 bytes OK
+2024/06/28-08:39:27.940551 305c26000 Delete type=0 #53
+2024/06/28-08:39:27.946294 305c26000 Manual compaction at level-0 from '!folders!0QMzw1FmP6jzykb6' @ 72057594037927935 : 1 .. '!items.effects!vFQdqXxhyPDXj6ps.EGtFw1j6wBrGm518' @ 0 : 0; will stop at (end)
+2024/06/28-08:39:27.947920 305c26000 Manual compaction at level-1 from '!folders!0QMzw1FmP6jzykb6' @ 72057594037927935 : 1 .. '!items.effects!vFQdqXxhyPDXj6ps.EGtFw1j6wBrGm518' @ 0 : 0; will stop at '!items.effects!vFQdqXxhyPDXj6ps.EGtFw1j6wBrGm518' @ 69 : 1
+2024/06/28-08:39:27.947926 305c26000 Compacting 1@1 + 1@2 files
+2024/06/28-08:39:27.948632 305c26000 Generated table #56@1: 34 keys, 31964 bytes
+2024/06/28-08:39:27.948643 305c26000 Compacted 1@1 + 1@2 files => 31964 bytes
+2024/06/28-08:39:27.948714 305c26000 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/28-08:39:27.948747 305c26000 Delete type=2 #23
+2024/06/28-08:39:27.948957 305c26000 Delete type=2 #55
+2024/06/28-08:39:27.954942 305c26000 Manual compaction at level-1 from '!items.effects!vFQdqXxhyPDXj6ps.EGtFw1j6wBrGm518' @ 69 : 1 .. '!items.effects!vFQdqXxhyPDXj6ps.EGtFw1j6wBrGm518' @ 0 : 0; will stop at (end)
