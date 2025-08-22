@@ -1,0 +1,14 @@
+{
+  "name": "foundryvtt-aumyr-setting",
+  "private": true,
+  "type": "module",
+  "version": "1.0.0a",
+  "scripts": {
+    "clean:packs": "node ./tools/clean-packs.mjs",
+    "build:packs": "node ./tools/build-packs.mjs",
+    "build": "npm run clean:packs && npm run build:packs"
+  },
+  "devDependencies": {
+    "foundryvtt-cli": "^3.0.0"
+  }
+}

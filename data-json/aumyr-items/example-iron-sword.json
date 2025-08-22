@@ -1,0 +1,8 @@
+{
+  "name": "Esempio Spada di Ferro",
+  "type": "weapon",
+  "img": "icons/weapons/swords/sword-guard.webp",
+  "system": {},
+  "flags": {},
+  "effects": []
+}

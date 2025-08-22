@@ -49,3 +49,15 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+
+## Build (LevelDB Packs from JSON)
+
+1. Install Node.js 18+.
+2. Run:
+   ```bash
+   npm install
+   npm run build
+   ```
+This will pack JSON files under `data-json/<packName>/*.json` into LevelDB packs under `packs/<packName>/` using `foundryvtt-cli`.

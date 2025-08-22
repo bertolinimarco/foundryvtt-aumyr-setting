@@ -4,8 +4,8 @@
   "description": "Aumyr è un'ambientazione fantasy per giochi di ruolo pronta per le tue avventure. Scopri di più su https://www.aumyr.world",
   "version": "1.0.0a",
   "compatibility": {
-    "minimum": "12",
-    "verified": "12"
+    "minimum": "13",
+    "verified": "13.341"
   },
   "media": [
     {
@@ -73,5 +73,35 @@
   ],
   "url": "https://github.com/bertolinimarco/foundryvtt-aumyr-setting",
   "manifest": "https://raw.githubusercontent.com/bertolinimarco/foundryvtt-aumyr-setting/main/module.json",
-  "download": "https://github.com/bertolinimarco/foundryvtt-aumyr-setting/archive/master.zip"
+  "download": "https://github.com/bertolinimarco/foundryvtt-aumyr-setting/archive/master.zip",
+  "languages": [
+    {
+      "lang": "it",
+      "name": "Italiano",
+      "path": "lang/it.json",
+      "flags": {}
+    },
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json",
+      "flags": {}
+    }
+  ],
+  "esmodules": [
+    "scripts/main.js"
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "3",
+          "verified": ""
+        }
+      }
+    ],
+    "requires": []
+  }
 }
